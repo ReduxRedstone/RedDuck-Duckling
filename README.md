@@ -14,4 +14,4 @@ Run the bot using `node mcchat.js`
 
 ##You will know the bot is running when you see 'Minecraft client logged in.' 'Minecraft client joined server' and 'Discord bot ready' in console.
 
-![In Action](http://i.imgur.com/tNvqqW2.gifv)
+[Bot in action](http://i.imgur.com/tNvqqW2.gifv)
