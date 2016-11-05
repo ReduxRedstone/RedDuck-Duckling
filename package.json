@@ -1,0 +1,26 @@
+{
+  "name": "duckling",
+  "version": "1.0.0",
+  "description": "bridges a Discord server and Minecraft server",
+  "main": "mcchat.js",
+  "keywords": [
+    "minecraft",
+    "node",
+    "js",
+    "chat",
+    "discord",
+    "bot"
+  ],
+  "author": "ReduxRedstone (RedDucks)",
+  "license": "ISC",
+  "devDependencies": {
+    "ansi-color": "^0.2.1",
+    "discord.js": "^10.0.1",
+    "fs": "0.0.1-security",
+    "minecraft-protocol": "^1.1.0",
+    "node-opus": "^0.2.2",
+    "opusscript": "0.0.1",
+    "readline": "^1.3.0",
+    "util": "^0.10.3"
+  }
+}
